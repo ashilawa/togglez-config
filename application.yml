@@ -1,5 +1,7 @@
 services:
   enabled:
-    - service-1
-    - service-2
-    - service-3
+    - service1
+    - service2
+    - service3
+  disabled:
+    - service4
