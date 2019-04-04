@@ -1,7 +1,5 @@
 services:
-  enabled:
-    - service1
-    - service2
-    - service3
+  enabled: 
+    service1, service2, service3
   disabled:
-    ['Apple', 'Orange', 'Strawberry', 'Mango']
+    service4, service6
