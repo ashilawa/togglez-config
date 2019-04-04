@@ -1,2 +1,2 @@
 # togglez-config
-Cloud config server
+Cloud config 
