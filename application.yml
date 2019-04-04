@@ -4,4 +4,4 @@ services:
     - service2
     - service3
   disabled:
-    - service4
+    ['Apple', 'Orange', 'Strawberry', 'Mango']
